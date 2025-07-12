@@ -124,6 +124,7 @@ public class Main {
                     }
                     case 5 -> {
                         saveTasksInFile(tasks, filename);
+                        System.exit(0);
 
                     }
                     default ->
