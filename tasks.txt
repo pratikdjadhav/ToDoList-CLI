@@ -1,1 +1,6 @@
-
+1|Buy groceries|false
+2|Complete Java To-Do List project|true
+3|Watch a movie|false
+4|Read 10 pages of a book|false
+5|Practice coding for 1 hour|true
+6|Pay electricity bill|false
